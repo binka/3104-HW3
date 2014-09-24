@@ -1,5 +1,6 @@
 #Lincoln Samelson
 #CSCI 3104
+#ID: 101054623
 #HW #3
 
 import csv
